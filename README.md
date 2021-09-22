@@ -1,2 +1,2 @@
-facebook: /itelezhka
+facebook: /itelezhka /n
 instagram: @olegeraio
