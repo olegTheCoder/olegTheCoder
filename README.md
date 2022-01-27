@@ -16,7 +16,6 @@ I love cycling, reading and surfing. 🙀 <br />
 
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=olegTheCoder)
 
 ### 💬 Mail me: olegthecoder89@gmail.com
 ### ⚡️ Telegram: @olegthecoder
