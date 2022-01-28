@@ -1,7 +1,7 @@
 # Hi there!🤘
 
 My name is Oleg, I'm from Moscow! 🙈 <br />
-I am a Fullstack JavaScript developer. 😎 <br />
+I am a Frontend JavaScript developer. 😎 <br />
 I love cycling, reading and surfing. 🙀 <br />
 
 ### Languages and Technologies
